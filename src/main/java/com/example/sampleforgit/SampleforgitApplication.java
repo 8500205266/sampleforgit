@@ -9,5 +9,4 @@ public class SampleforgitApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SampleforgitApplication.class, args);
 	}
-
 }
